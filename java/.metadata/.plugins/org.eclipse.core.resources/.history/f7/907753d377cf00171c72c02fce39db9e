@@ -8,14 +8,7 @@ public class Demo1_LIst {
 //		demo1();
 //		demo2();
 //		demo3();
-//		demo4();
-		List list = new ArrayList();
-		list.add("a");
-		list.add("b");
-		list.add("c");
-		list.add("d");
-		list.set(1, "haha");
-		System.out.println(list);
+		demo4();
 		
 	}
 
